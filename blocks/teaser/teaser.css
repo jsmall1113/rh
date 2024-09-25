@@ -24,7 +24,7 @@
 /* teaser content */
 .teaser > div:last-child {
     width: 75%;
-    background-color: #fff;
+    background-color: #c4b5aa;
     min-height: 180px;
     padding: 0 28px;
     font-size: 18px;
@@ -53,5 +53,5 @@
 }
 
 .teaser h2 a {
-    color: #202020
+    color: #ffffff
 }
