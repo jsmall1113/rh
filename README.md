@@ -2,8 +2,8 @@
 
 
 ## Environments
-- Preview: Preview: https://main--rh--jsmall1113.hlx.page/
-- Live: https://main--rh--jsmall1113.hlx.live/
+- Preview: Preview: https://main--rh--jsmall1113.aem.page/
+- Live: https://main--rh--jsmall1113.aem.live/
 
 ## Installation
 
