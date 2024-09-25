@@ -2,8 +2,8 @@
 
 
 ## Environments
-- Preview: Preview: https://main--rh--AdobeDevXSC.hlx.page/
-- Live: https://main--rh--AdobeDevXSC.hlx.live/
+- Preview: Preview: https://main--rh--jsmall1113.hlx.page/
+- Live: https://main--rh--jsmall1113.hlx.live/
 
 ## Installation
 
